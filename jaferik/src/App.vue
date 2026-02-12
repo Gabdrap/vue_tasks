@@ -63,6 +63,11 @@ export default {
 		text: 'page',
 		href: 'page.html',
 	}
+  data() {
+	return {
+		num: 5,
+	}
+}
 }
 }
 </script>
